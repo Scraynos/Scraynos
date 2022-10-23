@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on future stuff, yk.
 - 📫 How to reach me : juliancwessel@icloud.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraynos)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraynos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Scraynos/Scraynos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
